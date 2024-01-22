@@ -25,5 +25,31 @@ This allowed for a relatively smooth performance with large numbers of cells eve
 ## Chess
 A game of chess, with UI based on chess.com. You play as white and black makes random moves.
 
+Also supports saving a game state (CTRL-S) and loading a game state (CTRL-L).
+
 ![image](https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/9e9721dc-f755-4099-800a-d5c7e13b4698)
+
+## Roguelike
+Not fully completed. Play as a wizard with a gun and shoot infinitely respawning skeletons.
+
+<img src='https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/05064c0f-0bd0-4515-aa89-b90e1e618517' width='500'>
+<img src='https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/7e4bba90-fb71-4e83-92e8-95fdb240a40b' width='500'>
+
+### Controls
+* WASD to move
+* Mouse to shoot
+* 1 and 2 to swap weapons
+
+## Wave Function Collapse
+A visualisation of a wave function collapse algorithm generating a circuit board.
+
+Practical applications may be a sudoku solver, or dungeon map generation.
+
+![image](https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/a54262ed-1766-47cf-9f07-a971d540e666)
+
+## Grass Cutting Incremental
+An incremental style game about cutting grass. Buy upgrades and automations, with offline progress.
+
+
+
 
