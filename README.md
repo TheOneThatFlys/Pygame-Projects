@@ -50,6 +50,8 @@ Practical applications may be a sudoku solver, or dungeon map generation.
 ## Grass Cutting Incremental
 An incremental style game about cutting grass. Buy upgrades and automations, with offline progress.
 
+![image](https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/ad72635d-7316-4de3-b405-2d91f28710bb)
+
 
 
 
