@@ -1,0 +1,98 @@
+[
+    {
+        "old_pos": [
+            4.0,
+            6.0
+        ],
+        "new_pos": [
+            4.0,
+            4.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            3.0,
+            1.0
+        ],
+        "new_pos": [
+            3.0,
+            3.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            4.0,
+            4.0
+        ],
+        "new_pos": [
+            3.0,
+            3.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            2.0,
+            1.0
+        ],
+        "new_pos": [
+            2.0,
+            2.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            3.0,
+            3.0
+        ],
+        "new_pos": [
+            2.0,
+            2.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            0.0,
+            1.0
+        ],
+        "new_pos": [
+            0.0,
+            2.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            2.0,
+            2.0
+        ],
+        "new_pos": [
+            1.0,
+            1.0
+        ],
+        "castle": null,
+        "en_passant": null
+    },
+    {
+        "old_pos": [
+            0.0,
+            2.0
+        ],
+        "new_pos": [
+            0.0,
+            3.0
+        ],
+        "castle": null,
+        "en_passant": null
+    }
+]
