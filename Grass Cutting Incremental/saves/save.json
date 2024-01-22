@@ -1,0 +1,23 @@
+{
+    "last-save": 0,
+    "money": 0,
+    "settings": {
+        "fps": false,
+        "particles": true
+    },
+    "upgrades": {
+        "grass": {
+            "area": 0,
+            "max": 0,
+            "speed": 0,
+            "value": 0
+        },
+        "rebirth": {},
+        "roomba": {
+            "chroma": 0,
+            "roomba": 0,
+            "speed": 0,
+            "turning": 0
+        }
+    }
+}
