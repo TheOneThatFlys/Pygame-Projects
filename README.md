@@ -1,7 +1,7 @@
 # Pygame Projects
 These are some of my projects I made in 2023 using python and the pygame library.
 
-When running, please ensure you are in the relevant project directory, and not the Pygame-Projects root directory.
+Run by executing main.py in the corresponding project. Please ensure you are in the relevant project directory, and not the Pygame-Projects root directory.
 
 ## Conway's Game of Life
 A cellular autonama that generates beautiful patterns based on a simple set of rules.
