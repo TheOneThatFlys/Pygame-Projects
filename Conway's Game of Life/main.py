@@ -6,7 +6,6 @@ TICK_SPEED = 1
 
 Cell = tuple[int, int]
 
-# totally not stolen
 def bresenham(x0, y0, x1, y1):
     dx = x1 - x0
     dy = y1 - y0
@@ -74,7 +73,7 @@ class Game():
         return neighbours
 
     def get_adjacent_cells(self, cell: Cell) -> list[Cell]:
-        # magic: https://stackoverflow.com/questions/2373306/pythonic-and-efficient-way-of-finding-adjacent-cells-in-grid
+        # https://stackoverflow.com/questions/2373306/pythonic-and-efficient-way-of-finding-adjacent-cells-in-grid
         return [(cell[0]+i,cell[1]+j) for i in (-1,0,1) for j in (-1,0,1) if i != 0 or j != 0]
 
     def tick(self):
@@ -152,8 +151,8 @@ class Game():
             self.running = not self.running
         if key == pygame.K_RIGHT:
             self.tick()
-        if key == pygame.K_d:
-            self.cam_pos[0] += 1
+        if key == pygame.K_BACKSPACE:
+            self.active_cells = set()
 
     def on_mousewheel(self, event):
         mouse_pos = pygame.mouse.get_pos()
