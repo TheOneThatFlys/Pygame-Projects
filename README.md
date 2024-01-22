@@ -5,6 +5,10 @@ When running, please ensure you are in the relevant project directory, and not t
 
 ## Conway's Game of Life
 A cellular automana that generates beautiful patterns based on a simple set of rules.
+
+![image](https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/eafb3c00-0048-4f56-ae2d-94b8b0f9d67d)
+![image](https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/4456baf0-7b52-4696-ba77-d2fd137e5d58)
+
 ### Optimisation
 In order to optimise each iteration of the algorithm, I didn't use a grid of cells, which would have a $n^2$ performance decrease as the grid got larger. Instead, I used a set which stored cell positions, which not only reduced the number of iterations of the formula, but decreased the lookup time for cells. This also meant the grid size was expanded to be infinite due to python's way of storing integers.
 
@@ -16,3 +20,4 @@ This allowed for a relatively smooth performance with large numbers of cells eve
 * Left click to place cells, right click to delete
 * Right arrow to step once
 * Backspace to delete all cells
+* F3 for debug info
