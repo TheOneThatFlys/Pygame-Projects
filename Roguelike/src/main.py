@@ -1,11 +1,3 @@
-# py "O:\Year 9\Music\James Bond - Template 1\Thing3\Roguelike\src\main.py"
-
-# TODO:
-#   - Interactable stuff (with e?)
-#   - More rooms 
-#   - More weapons
-#   - More enemies
-
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
