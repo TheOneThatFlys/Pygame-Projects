@@ -25,6 +25,8 @@ This allowed for a relatively smooth performance with large numbers of cells eve
 ## Chess
 A game of chess, with UI based on chess.com. You play as white and black makes random moves.
 
+Supports castling, en passant and castling.
+
 Also supports saving a game state (CTRL-S) and loading a game state (CTRL-L).
 
 ![image](https://github.com/TheOneThatFlys/Pygame-Projects/assets/110343508/9e9721dc-f755-4099-800a-d5c7e13b4698)
@@ -42,6 +44,8 @@ Not fully completed. Play as a wizard with a gun and shoot infinitely respawning
 
 ## Wave Function Collapse
 A visualisation of a wave function collapse algorithm generating a circuit board.
+
+Did not implement backtracking, so the algorithm may get stuck and start over.
 
 Practical applications may be a sudoku solver, or dungeon map generation.
 
