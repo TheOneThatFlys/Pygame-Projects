@@ -1,5 +1,5 @@
 # Pygame Projects
-These are some of my projects I made in 2023 using python and the pygame library.
+These are some of my projects I made in 2021-2023 using python and the pygame library.
 
 Run by executing main.py in the corresponding project. Please ensure you are in the relevant project directory, and not the Pygame-Projects root directory.
 
